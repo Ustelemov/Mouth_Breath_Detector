@@ -33,7 +33,7 @@ while(True):
         
         cv2.line(frame,(0, bottom_lip), (w,bottom_lip),(0,0,0),2)
         cv2.line(frame,(0, top_lip), (w,top_lip),(0,0,0),2)
-        cv2.putText(frame, "Difference between points: "+str(len(d)), (0, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))
+        cv2.putText(frame, "Difference between points: "+str(diff), (0, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))
         
         avg = round(sum(d)/len(d))
         cv2.putText(frame, "AVG for last 25 frames: "+str(avg), (0, 60), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0))

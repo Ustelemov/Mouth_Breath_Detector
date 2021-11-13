@@ -18,11 +18,11 @@ Find lowest top lip point and highest bottom lip point for top-lip[62-64] and bo
 # Examples
 Breating with mouth:
 
-![Breating-with-mouth](images/Breating_With_Mouth.png)
+![Breating-with-mouth](images/Breating-With-Mouth.png)
 
 Normal breating:
 
-![Normal-Breating](images/Normal_Breating.png)
+![Normal-Breating](images/Normal-Breathing.png.png)
 
 # Install
 
