@@ -36,12 +36,6 @@ Install requirements:
 
 >pip install -r requirements.txt
 
-Download model for Dlib
-
->cd models
-
->wget -nd https://github.com/JeffTrain/selfie/raw/master/shape_predictor_68_face_landmarks.dat
-
 Running 
 
 >python3 main.py
