@@ -22,7 +22,7 @@ Breating with mouth:
 
 Normal breating:
 
-![Normal-Breating](images/Normal-Breathing.png.png)
+![Normal-Breating](images/Normal-Breathing.png)
 
 # Install
 
